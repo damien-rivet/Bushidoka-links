@@ -1,0 +1,46 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "74769L4SQV.app.bushidoka.mobile.application",
+                    "74769L4SQV.app.bushidoka.mobile.application.debug"
+                ],
+                "components": [
+                    {
+                        "/": "/dojos",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/clubs",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/settings",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/settings/legal",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/my-planning",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/my-account",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/dojo/*",
+                        "comment": ""
+                    },
+                    {
+                        "/": "/club/*",
+                        "comment": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
